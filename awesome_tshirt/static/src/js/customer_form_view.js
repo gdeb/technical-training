@@ -1,6 +1,7 @@
 odoo.define('awesome_tshirt.customer_form_view', function (require) {
 "use strict";
 
+    console.log('haasdf');
 /**
  * This file defines a custom FormView for the model res.partner which adds a
  * 'Geolocate' button to the ControlPanel.
