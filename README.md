@@ -1,5 +1,6 @@
 # Odoo 12.0 - Technical Training
 
+This branch contains the training material for the JS tr
 This repository contains training material for learning Odoo 12. The training is divided in modules of roughly half a day. It will follow a problem-based learning approach. The learnees will handle ill-structured problems supervised framed by a teacher. That means that each problem has multiple solutions and therefore is not constrained to a single topic. Each module focuses on a given topic but with a similar approach.
 
 Each module provides some reference material, and proposes problems for the learnees to solve on the topic at hand.
